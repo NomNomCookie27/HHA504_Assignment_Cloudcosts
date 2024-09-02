@@ -12,6 +12,7 @@
 - **Budget Amount**: $12
 - **Alert Setup**: Alert was set at 80% of the budget which created a budget limit of $9.60
 - **Dashboards Explored Include**: Cost Analysis, Forcasting and Azure Advisor Recomendations.
+![Azure Budget Setup](Screenshots/Azure_Budget_Final) 
 
 
   
