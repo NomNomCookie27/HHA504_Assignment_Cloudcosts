@@ -46,7 +46,7 @@
 
 ![GCP Cost Breakdown](screenshots/GCP_Cost_Breakdown_Dashboard.png)
 
-## Conclusion##
+## Conclusion ##
 Both Azure and GCP provide detailed dashboards that can assist us with managing cloud costs more effectively. 
 
   
